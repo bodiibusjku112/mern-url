@@ -1,0 +1,5 @@
+{
+	"port": 5000,
+	"jwtSecret": "secret key",
+	"mongoUri": "mongodb+srv://chertila:geonwqlv@cluster0.bf7oe.mongodb.net/app?retryWrites=true&w=majority"
+}
